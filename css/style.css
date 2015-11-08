@@ -1,12 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Gabriela);
-
+@import url(https://fonts.googleapis.com/css?family=Inknut+Antiqua);
 html, body {
   height: 100%;
   min-height: 100%;
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url(../images/gradient.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -35,13 +35,13 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2em;
   margin-top: .5em;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-family: 'Inknut Antiqua', serif;
+  font-size: 2em;
   margin-top: .5em;
 }
 
@@ -53,6 +53,7 @@ img {
 
 p {
   font-size: 1em;
+  color: #afa7d6;
 }
 
 a {
