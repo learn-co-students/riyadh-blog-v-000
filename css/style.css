@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(https://fonts.googleapis.com/css?family=Gabriela);
 
 html, body {
   height: 100%;
@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url(../images/backgrounds/architecture.jpg) center center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -27,6 +27,7 @@ body {
 h1, h2 {
   font-family: 'Gabriela', serif;
   color: #fff;
+  text-shadow: 2px 4px 8px black;
 }
 
 h1 {
@@ -83,4 +84,17 @@ a:hover {
   .wrapper {
     width: 95%;
   }
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+}
+
+.links li {
+  margin: 0;
+}
+
+.links a {
+  color: blue;
 }
