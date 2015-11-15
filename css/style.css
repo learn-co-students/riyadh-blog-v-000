@@ -10,7 +10,8 @@ body {
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: 110%;
+  color: midnightblue;
 }
 
 .wrapper {
@@ -74,6 +75,10 @@ a:hover {
 @media only screen and (max-width: 784px) {
   body {
     font-size: 120%;
+    background: aliceblue;
+  }
+  h1, h2 {
+    color: midnightblue;
   }
   h1 {
     font-size: 2.5em;
