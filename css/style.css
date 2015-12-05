@@ -6,10 +6,13 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(to right, #001287, #0080FF);
+  background: -moz-linear-gradient(right, #001287, #0080FF);
+  background: -o-linear-gradient(right, #001287, #0080FF);
+  background: -webkit-linear-gradient(right, #001287, #0080FF);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Lucida Console, Arial, sans-serif;
   font-size: 100%;
 }
 
