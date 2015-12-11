@@ -6,10 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(#332A0D, #29430C);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 100%;
 }
 
@@ -39,9 +39,9 @@ h2 {
   margin-top: .5em;
 }
 
-h3 {
+h4 {
   font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-size: 1.2em;
   margin-top: .5em;
 }
 
@@ -52,7 +52,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: .8em;
 }
 
 a {
