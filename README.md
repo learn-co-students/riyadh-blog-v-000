@@ -10,7 +10,7 @@ This challenge asks that you create the website page shown in the provided scree
 
 ## Bonus
 Use CSS in the `style.css` file in the `css` folder to change the different aspects about your page such as:
-* font color
+* font col0r
 * font size
 * font family
 * change the background image to a color
