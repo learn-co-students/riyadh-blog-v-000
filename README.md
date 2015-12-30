@@ -9,7 +9,7 @@ This challenge asks that you create the website page shown in the provided scree
 3. In the index.html file use the comments in the code to place the content from SOURCE.md to the proper locations. The image file MOCKUP.jpg can be used as a reference to build the index.html page as it appears.
 
 ## Bonus
-Use CSS in the `style.css` file in the `css` folder to change different aspects about your page such as:
+Use CSS in the `style.css` file in the `css` folder to change the different aspects about your page such as:
 * font color
 * font size
 * font family
