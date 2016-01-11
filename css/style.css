@@ -43,6 +43,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: navy;
 }
 
 img {
@@ -53,11 +54,16 @@ img {
 
 p {
   font-size: 1em;
+  color: red;
 }
 
 a {
   color: black;
   text-decoration: none;
+  text-decoration: underline;
+}
+a:hover {
+  color: red;
 }
 
 a:hover {
