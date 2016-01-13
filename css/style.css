@@ -21,10 +21,10 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(100,100,150,.85);
 }
 
-h1, h2 {
+h1, h2, h3, p {
   font-family: 'Gabriela', serif;
   color: #fff;
 }
