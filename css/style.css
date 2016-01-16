@@ -6,11 +6,13 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: black center no-repeat;
+  background: linear-gradient(to bottom, red, yellow);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-family: Arial, sans-serif;
+  font-size: 120%;
+  color: red;
 }
 
 .wrapper {
