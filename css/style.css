@@ -26,23 +26,26 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  
 }
 
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  color: #fff;
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: #fff;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #000;
 }
 
 img {
@@ -58,6 +61,7 @@ p {
 a {
   color: black;
   text-decoration: none;
+  font-size:15px;
 }
 
 a:hover {
