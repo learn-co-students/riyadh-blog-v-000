@@ -17,11 +17,12 @@ body {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+
 }
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(255,200,200,.85);
 }
 
 h1, h2 {
@@ -52,7 +53,8 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: .8em;
+  font-weight: bold;
 }
 
 a {
