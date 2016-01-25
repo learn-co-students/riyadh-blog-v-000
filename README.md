@@ -1,3 +1,5 @@
+<!-- Instructions for this lesson -->
+
 # Code Challenge - Riyadh Blog
 
 This challenge asks that you create the website page shown in the provided screenshot image.
