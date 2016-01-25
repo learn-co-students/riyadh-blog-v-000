@@ -10,13 +10,13 @@ body {
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: 90%;
 }
 
-.wrapper {
+.wrap {
   margin: 0 auto;
   width: 60%;
-  padding-bottom: 40px;
+  padding-bottom: 45px;
 }
 
 #content {

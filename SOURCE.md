@@ -1,3 +1,5 @@
+<!-- Use the below information in index.html -->
+
 HEADING
 
 `Welcome to Riyad`
