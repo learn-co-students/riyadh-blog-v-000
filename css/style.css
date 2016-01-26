@@ -52,10 +52,11 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: .7em;
 }
 
 a {
+  font-size: .7em;
   color: black;
   text-decoration: none;
 }
