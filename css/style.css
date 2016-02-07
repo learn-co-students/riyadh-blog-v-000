@@ -6,8 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
+  background: linear-gradient (#FFF, #777);
+  background: -moz-linear-gradient(#FFF, #777);
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
@@ -25,8 +25,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Helvetica', serif;
+  color: #777;
 }
 
 h1 {
