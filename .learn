@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tags:
   - typography
   - images
@@ -5,3 +6,15 @@ tags:
 languages:
   - html
   - css
+=======
+languages:
+  - html
+tags:
+  - elements
+  - headings
+  - typography
+  - images
+  - links
+  - beginner
+  - kids
+>>>>>>> 5d5d2f8eeba77816c42fc0bf852e55e3e4b8fad5
