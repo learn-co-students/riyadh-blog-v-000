@@ -51,12 +51,13 @@ img {
   height: auto;
 }
 
-p {
-  font-size: 1em;
+p, a {
+  font-size: 0.75em;
+  line-height: 1.75em;
 }
 
 a {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
