@@ -14,23 +14,23 @@ body {
 }
 
 .wrapper {
-  margin: 0 auto;
+  margin: 10 auto;
   width: 60%;
   padding-bottom: 40px;
 }
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(25,255,255,.85);
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #fff033;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 5.5em;
   margin-bottom: 0;
 }
 
