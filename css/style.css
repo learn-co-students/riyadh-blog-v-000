@@ -11,6 +11,7 @@ body {
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  color: white;
 }
 
 .wrapper {
@@ -21,12 +22,16 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: black;
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: white;
+
+   -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: white;
 }
 
 h1 {
@@ -56,7 +61,7 @@ p {
 }
 
 a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
