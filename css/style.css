@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(http://fonts.googleapis.com/css?family=Lobster);
 
 html, body {
   height: 100%;
@@ -21,12 +22,12 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(245,245,220,.85);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Lobster', 'Gabriela', serif;
+  color: #f9f;
 }
 
 h1 {
