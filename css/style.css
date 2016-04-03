@@ -26,17 +26,19 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #ccc;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4em;
   margin-bottom: 0;
+  margin-left: .75em;
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  margin-left: 2.75em;
 }
 
 h3 {
