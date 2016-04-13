@@ -6,10 +6,11 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  /*background: url(../images/backgrounds/architecture.jpg) center no-repeat;*/
+  background: linear-gradient(#66ffff, #ffff99);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Gabriela', sans-serif;
   font-size: 100%;
 }
 
@@ -17,11 +18,13 @@ body {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+  font-size: 20px;
 }
 
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
+  color: gray;
 }
 
 h1, h2 {
