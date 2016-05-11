@@ -17,16 +17,17 @@ body {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+
 }
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: #ffffcc;
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #ffffcc;        /*  #fff; */
 }
 
 h1 {
@@ -43,6 +44,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #000099;
 }
 
 img {
