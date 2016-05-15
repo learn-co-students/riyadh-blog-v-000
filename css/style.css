@@ -6,7 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-image:
+    linear-gradient(
+      skyblue, #f06d06
+    );
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -53,6 +56,11 @@ img {
 
 p {
   font-size: 1em;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
 }
 
 a {
