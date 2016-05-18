@@ -15,12 +15,12 @@ body {
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 50%;
   padding-bottom: 40px;
 }
 
 #content {
-  padding: 20px;
+  padding: 30px;
   background: rgba(255,255,255,.85);
 }
 
