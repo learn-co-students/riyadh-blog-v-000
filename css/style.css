@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,200,300,500,600);
 
 html, body {
   height: 100%;
@@ -6,7 +7,11 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: #C9DFE7 center no-repeat;
+  background: -webkit-linear-gradient(bottom, #25434E, #74919B) center no-repeat; /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom, #25434E, #74919B) center no-repeat; /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom, #25434E, #74919B) center no-repeat; /* For Firefox 3.6 to 15 */
+    background: linear-gradient(bottom, #25434E, #74919B) center no-repeat; /* Standard syntax */
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -21,26 +26,32 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: #74919B;
+  background: -webkit-linear-gradient(#74919B, #25434E); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#74919B, #25434E); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#74919B, #25434E); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#74919B, #25434E); /* Standard syntax */
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 200;
+  color: #25434E;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4em;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2em;
   margin-top: .5em;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
   font-size: 1.5em;
   margin-top: .5em;
 }
@@ -52,6 +63,7 @@ img {
 }
 
 p {
+  font-family: 'Work Sans', sans-serif;
   font-size: 1em;
 }
 
