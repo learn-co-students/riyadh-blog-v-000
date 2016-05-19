@@ -1,10 +1,11 @@
 HEADING
 
-`Welcome to Riyad`
+<!DOCTYPE HTML>
+<h1>`Welcome to Riyad`</h1>
 
 SUB HEAD
 
-`Where A Traditional Past Meets A Modern Future.`
+<h2>`Where A Traditional Past Meets A Modern Future.`</h2>
 
 IMAGE 1 FILE
 
@@ -16,7 +17,7 @@ IMAGE 1 ALT TEXT
 
 SMALLER SUB HEAD
 
-`Travel`
+<h3>`Travel`</h3>
 
 PARAGRAPH 1
 
@@ -24,7 +25,7 @@ PARAGRAPH 1
 
 SMALLER SUB HEAD
 
-`History`
+<h3>`History`</h3>
 
 PARAGRAPH 2
 
