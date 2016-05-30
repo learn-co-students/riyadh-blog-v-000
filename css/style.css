@@ -11,6 +11,9 @@ body {
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+
+  
+
 }
 
 .wrapper {
@@ -51,6 +54,19 @@ img {
   height: auto;
 }
 
+img:hover{
+    position:relative;
+    display: inline-block;
+    margin:2em 2em; 
+    width: 50em;
+    height: 30em;
+    top:2em;
+    left:2em;
+    box-shadow:0px 0px 50px 20px #000000;
+    
+
+      }
+
 p {
   font-size: 1em;
 }
@@ -63,6 +79,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
 @media only screen and (max-width: 1042px) {
   .wrapper {
