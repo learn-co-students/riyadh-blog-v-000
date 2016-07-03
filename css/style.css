@@ -25,8 +25,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Georgia', serif;
+  color: #f0f0f0;
 }
 
 h1 {
@@ -40,8 +40,8 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-family: 'Georgia', serif;
+  font-size: 1.25em;
   margin-top: .5em;
 }
 
