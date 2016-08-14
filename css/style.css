@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 html, body {
   height: 100%;
@@ -6,11 +7,13 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  background: #606c88; /* fallback for old browsers */ /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(right, #606c88, #3f4c6b);
+  background: -o-linear-gradient(right, #606c88, #3f4c6b);
+  background: linear-gradient(to left, #606c88, #3f4c6b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Montserrat', sans-serif;
+  font-size: 90%;
+  color: #3f4c6b;
 }
 
 .wrapper {
@@ -56,7 +59,7 @@ p {
 }
 
 a {
-  color: black;
+  color: #3f4c6b;
   text-decoration: none;
 }
 
