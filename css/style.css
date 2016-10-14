@@ -20,8 +20,8 @@ body {
 }
 
 #content {
-  padding: 20px;
-  background: rgba(255,255,255,.85);
+  padding: 15px;
+  background: red(255,255,255,.85);
 }
 
 h1, h2 {
@@ -35,7 +35,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1em;
   margin-top: .5em;
 }
 
