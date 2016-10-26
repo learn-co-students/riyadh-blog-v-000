@@ -24,9 +24,14 @@ body {
   background: rgba(255,255,255,.85);
 }
 
-h1, h2 {
+h1 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: white;
+}
+
+h2 {
+  font-family: 'Gabriela', serif;
+  color: black;
 }
 
 h1 {
@@ -52,7 +57,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.5em;
 }
 
 a {
