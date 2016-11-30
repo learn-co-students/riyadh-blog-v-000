@@ -9,8 +9,13 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+   background: linear-gradient(red, orange, yellow, white);
+  font-family: cursive;
   font-size: 100%;
+}
+
+.wrapper:hover #hovering {
+  text-shadow: 0 0 7px white;
 }
 
 .wrapper {
@@ -52,7 +57,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.2em;
 }
 
 a {
@@ -62,6 +67,7 @@ a {
 
 a:hover {
   text-decoration: underline;
+  color: #a224e2;
 }
 
 @media only screen and (max-width: 1042px) {
