@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(http://fonts.googleapis.com/css?family=Gabriela|Rock+Salt|Covered+By+Your+Grace|Reenie+Beanie);
 
 html, body {
   height: 100%;
@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: grey;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -15,33 +15,34 @@ body {
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 80%;
   padding-bottom: 40px;
 }
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: #EED2EE;
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Rock Salt', cursive;
+  color: lightpink;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 5em;
   margin-bottom: 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2.5em;
   margin-top: .5em;
+  color: white;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 4em;
   margin-top: .5em;
 }
 
@@ -52,7 +53,8 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 3em;
+  font-family: 'Reenie Beanie', cursive;
 }
 
 a {
@@ -61,7 +63,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 1042px) {
