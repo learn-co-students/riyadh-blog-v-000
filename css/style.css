@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
 
 html, body {
   height: 100%;
@@ -6,7 +6,11 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: #ff4d4d; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#ff4d4d, #993333); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#ff4d4d, #993333); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#ff4d4d, #993333); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#ff4d4d, #993333); /* Standard syntax */
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -21,11 +25,11 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(255,255,255,.9);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Playfair Display SC', serif;
   color: #fff;
 }
 
@@ -40,7 +44,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Playfair Display SC', serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
