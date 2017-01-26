@@ -1,6 +1,6 @@
 # Riyadh Blog
 
-Create the website page that is shown in the provided screenshot image.
+Create the website page shown in the provided screenshot image.
 
 ## Tasks
 
