@@ -21,28 +21,40 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(229,229,255,.75);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Raleway 100', sans-serif;
   color: #fff;
+  text-align: center;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 5.5em;
   margin-bottom: 0;
+  font-weight: lighter;
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  font-weight: normal;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Raleway 100', sans-serif;
   font-size: 1.5em;
   margin-top: .5em;
+  text-align: center;
+  font-weight: 400;
+}
+
+h4 {
+  font-family: 'Raleway 100', sans-serif;
+  font-size: 1.5em;
+  text-align: left;
+  font-weight: 300;
 }
 
 img {
@@ -52,7 +64,9 @@ img {
 }
 
 p {
+  font-style: italic;
   font-size: 1em;
+  text-align: center;
 }
 
 a {
