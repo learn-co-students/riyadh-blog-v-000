@@ -9,6 +9,7 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  background: #c9de96; /* Old browsers */
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
@@ -21,7 +22,7 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(255,255,255,.5);
 }
 
 h1, h2 {
@@ -52,11 +53,11 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.1em;
 }
 
 a {
-  color: black;
+  color: #380a89;
   text-decoration: none;
 }
 
