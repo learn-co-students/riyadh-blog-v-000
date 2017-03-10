@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(http://fonts.googleapis.com/css?family=Rock%20Salt);
 
 html, body {
   height: 100%;
@@ -21,11 +21,11 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(255,255,100,.85);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Rock Salt', serif;
   color: #fff;
 }
 
