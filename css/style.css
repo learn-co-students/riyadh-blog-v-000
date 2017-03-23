@@ -53,10 +53,11 @@ img {
 
 p {
   font-size: 1em;
+  font-family: times;
 }
 
 a {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
