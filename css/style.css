@@ -24,9 +24,12 @@ body {
   background: rgba(255,255,255,.85);
 }
 
+.main-title{
+  color: #fff;
+}
+
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
 }
 
 h1 {
@@ -47,7 +50,7 @@ h3 {
 
 img {
   max-width: 100%;
-  width: 100%;
+  width: 99%;
   height: auto;
 }
 
