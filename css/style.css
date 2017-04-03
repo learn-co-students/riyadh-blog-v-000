@@ -53,6 +53,16 @@ img {
 
 p {
   font-size: 1em;
+  color: #fff;
+}
+
+.content {
+  max-width: auto;
+  max-height: auto;
+  margin-top: -60px;
+  padding: 18px;
+  background-color: black;
+    opacity: 0.9;
 }
 
 a {
