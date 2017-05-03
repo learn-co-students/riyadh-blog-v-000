@@ -84,3 +84,7 @@ a:hover {
     width: 95%;
   }
 }
+
+li {
+  list-style:none;
+}
