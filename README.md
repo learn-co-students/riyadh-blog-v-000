@@ -2,9 +2,12 @@
 
 Create the website page shown in the provided screenshot image.
 
+## Project Preview
+ https://nick-damico.github.io/html-album-cover-v-000/.
+
 ## Tasks
 
-1. Fork this repository. 
+1. Fork this repository.
 2. `cd` into repository folder.
 3. In the `index.html` file use the comments in the code to place the content from `SOURCE.md` in the proper locations. The image file `MOCKUP.jpg` can be used as a reference to build the `index.html` page as it appears.
 4. HINT: If you'd like to take a look at your handiwork, you can preview this in your browser by following [these steps](https://help.learn.co/hc/en-us/articles/230234088-Viewing-HTML-pages-in-the-Learn-IDE).
