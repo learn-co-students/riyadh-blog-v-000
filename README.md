@@ -3,7 +3,7 @@
 Create the website page shown in the provided screenshot image.
 
 ## Project Preview
- https://nick-damico.github.io/html-album-cover-v-000/.
+https://nick-damico.github.io/riyadh-blog-v-000/.
 
 ## Tasks
 
