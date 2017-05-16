@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #000000;
 }
 
 h1 {
@@ -83,4 +83,8 @@ a:hover {
   .wrapper {
     width: 95%;
   }
+}
+
+#white {
+  color: white;
 }
