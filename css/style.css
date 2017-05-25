@@ -6,11 +6,13 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-color: gray;
+  background: radial-gradient(blue, green, purple);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: 75%;
+  color: white;
 }
 
 .wrapper {
@@ -21,12 +23,11 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: Purisa;
+  color: yellow;
 }
 
 h1 {
@@ -35,14 +36,17 @@ h1 {
 }
 
 h2 {
+  font-family: DejaVu Sans;
+  color: black;
   font-size: 1.5em;
   margin-top: .5em;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'DejaVu Sans', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: yellow;
 }
 
 img {
@@ -53,10 +57,12 @@ img {
 
 p {
   font-size: 1em;
+  font-family: Ubuntu Condensed;
 }
 
 a {
-  color: black;
+  color: red;
+    font-size: 1.25em;
   text-decoration: none;
 }
 
