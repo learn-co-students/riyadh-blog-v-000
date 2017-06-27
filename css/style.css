@@ -73,12 +73,18 @@ a:hover {
 @media only screen and (max-width: 784px) {
   body {
     font-size: 120%;
+
+
   }
   h1 {
     font-size: 2.5em;
+
+
   }
   h2 {
     font-size: 1em;
+
+
   }
   .wrapper {
     width: 95%;
