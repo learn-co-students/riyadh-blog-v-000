@@ -24,9 +24,14 @@ body {
   background: rgba(255,255,255,.85);
 }
 
-h1, h2 {
+h1 {
   font-family: 'Gabriela', serif;
   color: #fff;
+}
+
+h2 {
+  font-family: 'Gabriela', serif;
+  color: #000;
 }
 
 h1 {
@@ -43,6 +48,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #fff;
 }
 
 img {
