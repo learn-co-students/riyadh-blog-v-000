@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #FF69B4;
 }
 
 h1 {
@@ -72,7 +72,7 @@ a:hover {
 
 @media only screen and (max-width: 784px) {
   body {
-    font-size: 120%;
+    font-size: 200%;
   }
   h1 {
     font-size: 2.5em;
