@@ -6,11 +6,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url(../images/backgrounds/no_hope.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  color: white;
 }
 
 .wrapper {
@@ -22,6 +23,7 @@ body {
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
+  color: #373636;
 }
 
 h1, h2 {
