@@ -6,11 +6,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  /*background: url(../images/backgrounds/architecture.jpg) center no-repeat;*/
   background-size: cover;
+  background-color: rgb(128,160,255);
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-family: Times, Helvetica, Arial, sans-serif;
+  font-size: 120%;
 }
 
 .wrapper {
@@ -26,7 +27,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #ff1;
 }
 
 h1 {
