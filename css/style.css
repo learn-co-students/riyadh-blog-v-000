@@ -15,13 +15,13 @@ body {
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 40%;
   padding-bottom: 40px;
 }
 
 #content {
-  padding: 20px;
-  background: rgba(255,255,255,.85);
+  padding: 40px;
+  background: rgba(255,255,255,0.85);
 }
 
 h1, h2 {
