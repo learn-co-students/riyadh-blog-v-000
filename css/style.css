@@ -49,6 +49,9 @@ img {
   max-width: 100%;
   width: 100%;
   height: auto;
+  border-color: #f06;
+  border-style:double;
+  border-width:medium;
 }
 
 p {
@@ -56,12 +59,12 @@ p {
 }
 
 a {
-  color: black;
+  color: #f06;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: overline;
 }
 
 @media only screen and (max-width: 1042px) {
