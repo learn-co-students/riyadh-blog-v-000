@@ -35,13 +35,14 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2em;
   margin-top: .5em;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
+  font-weight: bold;
   margin-top: .5em;
 }
 
@@ -52,11 +53,17 @@ img {
 }
 
 p {
+  font-size: 1.5em;
+  color: #5a5c60;
+}
+
+footer {
   font-size: 1em;
+  color: #59677c;
 }
 
 a {
-  color: black;
+  color: #59677c;
   text-decoration: none;
 }
 
