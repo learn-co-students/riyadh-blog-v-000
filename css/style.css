@@ -84,3 +84,7 @@ a:hover {
     width: 95%;
   }
 }
+
+a {
+  display: block;
+}
