@@ -6,10 +6,11 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(to bottom right, #8CAAE8, grey);
+  /*background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
-  background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  background-attachment: fixed;*/
+  font-family: Courier, Georgia, serif;
   font-size: 100%;
 }
 
@@ -25,12 +26,12 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Georgia', serif;
+  color: black;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 4.5em;
   margin-bottom: 0;
 }
 
@@ -40,7 +41,8 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Georgia', serif;
+  color: blue;
   font-size: 1.5em;
   margin-top: .5em;
 }
