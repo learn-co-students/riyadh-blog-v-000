@@ -6,9 +6,16 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  /* background: url(../images/backgrounds/architecture.jpg) center no-repeat;*/
   background-size: cover;
   background-attachment: fixed;
+
+  /* can be treated like a fallback */
+  background-color: red;
+
+  /* will be "on top", if browser supports it */
+  background-image: linear-gradient(red, orange);
+
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
