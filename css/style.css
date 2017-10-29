@@ -21,11 +21,11 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(255,255,155,.85);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Paprika', cursive;
   color: #fff;
 }
 
@@ -62,6 +62,10 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+.image-sub {
+  color: black;
 }
 
 @media only screen and (max-width: 1042px) {
