@@ -17,16 +17,18 @@ body {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+  background-color: #f49e2e;
 }
 
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
+  background-color: #f49e2e;
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #e8f442;
 }
 
 h1 {
@@ -43,6 +45,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #63f42e;
 }
 
 img {
@@ -53,6 +56,7 @@ img {
 
 p {
   font-size: 1em;
+  color: #2729a5;
 }
 
 a {
