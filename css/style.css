@@ -19,9 +19,12 @@ body {
   padding-bottom: 40px;
 }
 
+
+
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
+  color: black
 }
 
 h1, h2 {
@@ -43,6 +46,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: black
 }
 
 img {
