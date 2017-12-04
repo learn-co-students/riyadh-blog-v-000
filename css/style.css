@@ -6,10 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  background: linear-gradient(45deg, red, blue);
+  font-family: Courier, Arial, sans-serif;
   font-size: 100%;
 }
 
@@ -25,8 +23,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Courier', serif;
+  color: #FF0000;
 }
 
 h1 {
