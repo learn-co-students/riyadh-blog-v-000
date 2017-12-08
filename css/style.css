@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url("https://github.com/learn-co-students/riyadh-blog-v-000/blob/master/MOCKUP.jpg") center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
