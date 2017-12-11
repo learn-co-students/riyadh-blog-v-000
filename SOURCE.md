@@ -8,7 +8,7 @@ SUB HEAD
 
 IMAGE 1 FILE
 
-`transit.jpg`
+`images/transportation/transit.jpg`
 
 IMAGE 1 ALT TEXT
 
@@ -32,7 +32,7 @@ PARAGRAPH 2
 
 IMAGE 2 FILE
 
-`garden.jpg`
+`images/garden.jpg`
 
 IMAGE 2 ALT TEXT
 
@@ -44,7 +44,7 @@ PARAGRAPH 3
 
 IMAGE 3 FILE
 
-`camels-in-truck.jpg`
+`/images/transportation/camels-in-truck.jpg`
 
 IMAGE 3 ALT TEXT
 
