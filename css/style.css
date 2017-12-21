@@ -9,7 +9,7 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: 'Gabriela', serif, Helvetica, Arial, sans-serif;
+  font-family: 'Gabriela', Arial, sans-serif;
   font-size: 100%;
 }
 
@@ -85,3 +85,4 @@ a:hover {
   .wrapper {
     width: 95%;
   }
+}
