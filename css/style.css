@@ -6,7 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  /*background: url(../images/backgrounds/architecture.jpg) center no-repeat; */
+  background: url(https://upload.wikimedia.org/wikipedia/commons/c/c8/Riad_collage.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -25,8 +26,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Helvetica', serif;
+  color: #300000;
 }
 
 h1 {
@@ -40,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Helvetica', serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
