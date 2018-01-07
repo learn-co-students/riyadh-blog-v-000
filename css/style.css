@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css?family=Bellefair" rel="stylesheet">
+
 @import url(http://fonts.googleapis.com/css?family=Gabriela);
 
 html, body {
@@ -6,11 +8,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  background: #466368;
+  background: linear-gradient(to right bottom, #648880, #293f50);
+  font-family: 'Bellefair', serif;;
+  font-size: 120%;
 }
 
 .wrapper {
