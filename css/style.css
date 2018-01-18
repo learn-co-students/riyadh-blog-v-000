@@ -45,6 +45,10 @@ h3 {
   margin-top: .5em;
 }
 
+.subheader {
+  color: black;
+}
+
 img {
   max-width: 100%;
   width: 100%;
