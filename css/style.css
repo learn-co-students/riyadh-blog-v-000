@@ -19,6 +19,10 @@ body {
   padding-bottom: 40px;
 }
 
+.header {
+  color: #fff;
+}
+
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
