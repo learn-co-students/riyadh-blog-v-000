@@ -39,6 +39,12 @@ h2 {
   margin-top: .5em;
 }
 
+#content > h2 {
+  font-size: 1.5em;
+  margin-top: .5em;
+  color: black;
+}
+
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
