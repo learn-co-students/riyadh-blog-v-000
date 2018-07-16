@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(green, white, black);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -25,12 +25,12 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Zapfino', serif;
+  color: blue;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 5em;
   margin-bottom: 0;
 }
 
