@@ -45,6 +45,10 @@ h3 {
   margin-top: .5em;
 }
 
+h2:hover, h3:hover {
+  color: red;
+}
+
 img {
   max-width: 100%;
   width: 100%;
@@ -62,6 +66,7 @@ a {
 
 a:hover {
   text-decoration: underline;
+  color: red;
 }
 
 @media only screen and (max-width: 1042px) {
