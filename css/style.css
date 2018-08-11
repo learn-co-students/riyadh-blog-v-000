@@ -42,7 +42,9 @@ h2 {
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
+  color: blue;
   margin-top: .5em;
+  margin-bottom: 12px;
 }
 
 img {
