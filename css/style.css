@@ -6,9 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background: rgba(222,184,135,.85);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
@@ -49,6 +47,7 @@ img {
   max-width: 100%;
   width: 100%;
   height: auto;
+  border-style: ridge;
 }
 
 p {
