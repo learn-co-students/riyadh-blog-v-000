@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-image: linear-gradient(rgb(255,100,100), rgb(255,200,100));
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -55,13 +55,22 @@ p {
   font-size: 1em;
 }
 
-a {
-  color: black;
-  text-decoration: none;
+a:link {
+  color: blue;
+  text-decoration: underline;
 }
 
 a:hover {
-  text-decoration: underline;
+  font-weight: bold;
+}
+
+a:active {
+  font-weight: normal;
+}
+
+a:visited {
+  color: purple;
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 1042px) {
