@@ -6,7 +6,8 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: radial-gradient(red,yellow,green,blue,purple) center no-repeat;
+  /* Originally, the program used url(../images/backgrounds/architecture.jpg) instead of radial-gradient(red,...) */
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -43,6 +44,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: green;
 }
 
 img {
@@ -56,7 +58,7 @@ p {
 }
 
 a {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
