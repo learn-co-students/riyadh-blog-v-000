@@ -25,23 +25,23 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Comic Sans', cursive;
+  color: #500;
 }
 
 h1 {
   font-size: 3.5em;
-  margin-bottom: 0;
+  margin-bottom: .5em;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.80em;
   margin-top: .5em;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-family: 'Snell Roundhand', cursive;
+  font-size: 1.80em;
   margin-top: .5em;
 }
 
