@@ -24,6 +24,10 @@ body {
   background: rgba(255,255,255,.85);
 }
 
+#content h2 {
+  color: #000;
+}
+
 h1, h2 {
   font-family: 'Gabriela', serif;
   color: #fff;
