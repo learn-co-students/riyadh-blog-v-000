@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
 
 html, body {
   height: 100%;
@@ -21,11 +21,12 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  /*background: rgba(255,255,255,.85);*/
+  background: rgb(207, 221, 236);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Open Sans', sans-serif;
   color: #fff;
 }
 
@@ -40,9 +41,10 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: rgb(153, 99, 45);
 }
 
 img {
@@ -58,10 +60,15 @@ p {
 a {
   color: black;
   text-decoration: none;
+  display: block;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+a:visited {
+  color: rgb(176, 176, 144);
 }
 
 @media only screen and (max-width: 1042px) {
