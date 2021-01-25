@@ -1,4 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(http://fonts.googleapis.com/css?family=Delius+Swash+Caps);
+@import url(http://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise);
 
 html, body {
   height: 100%;
@@ -6,7 +8,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: #4682B4; /* For browsers that do not support gradients */
+  background: linear-gradient(#4682B4, #B0C4DE, #F0F8FF); /* Gradient Background */
+  background: -webkit-linear-gradient(#4682B4, #B0C4DE, #F0F8FF); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#4682B4, #B0C4DE, #F0F8FF); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#4682B4, #B0C4DE, #F0F8FF); /* For Firefox 3.6 to 15 */
+
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -25,7 +32,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Delius Swash Caps', 'Gabriela', serif;
   color: #fff;
 }
 
@@ -37,12 +44,14 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: #F5F5F5;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-family: 'Waiting for the Sunrise', 'Gabriela', serif;
+  font-size: 1.8em;
   margin-top: .5em;
+  color: #808080;
 }
 
 img {
@@ -52,11 +61,16 @@ img {
 }
 
 p {
+  color: #323232;
+  font-family: 'Papyrus';
   font-size: 1em;
+  margin-left: 1.5em;
 }
 
 a {
-  color: black;
+  color: #323232;
+  font-family: 'Gabriela';
+  margin-left: 1.2em;
   text-decoration: none;
 }
 
