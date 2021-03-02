@@ -25,8 +25,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'courier-new', serif;
+  color: pink;
 }
 
 h1 {
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'courier-new', serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
