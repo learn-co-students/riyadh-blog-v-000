@@ -43,6 +43,14 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: white;
+}
+
+h4 {
+  font-family: 'Gabriela', serif;
+  font-size: 1.5em;
+  margin-top: .5em;
+  color: Fuchsia;
 }
 
 img {
@@ -62,6 +70,7 @@ a {
 
 a:hover {
   text-decoration: underline;
+  color: Fuchsia;
 }
 
 @media only screen and (max-width: 1042px) {
