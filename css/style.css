@@ -5,17 +5,22 @@ html, body {
   min-height: 100%;
 }
 
+
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-image: linear-gradient(red, orange);
+  /*background-color: blue;*/
+  /*background: url(../images/backgrounds/architecture.jpg) center no-repeat;*/
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  /*font-family: Helvetica, Arial, sans-serif;*/
+  font-family: serif,monospace;
+
   font-size: 100%;
 }
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 80%; /*changed width from 60 to 80%*/
   padding-bottom: 40px;
 }
 
