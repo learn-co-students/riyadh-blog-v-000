@@ -6,8 +6,9 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url(../images/backgrounds/architecture.jpg) center repeat-y;
   background-size: cover;
+  background-repeat: repeat-y
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
@@ -52,7 +53,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: .5em;
 }
 
 a {
