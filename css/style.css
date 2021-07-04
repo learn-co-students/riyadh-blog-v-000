@@ -15,8 +15,11 @@ body {
 
 .wrapper {
   margin: 0 auto;
+  margin-bottom: 20px;
   width: 60%;
-  padding-bottom: 40px;
+  padding: 20px;
+  background-color: white;
+
 }
 
 #content {
@@ -26,12 +29,14 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color:white;
+  text-align: center;
 }
 
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+
 }
 
 h2 {
@@ -43,12 +48,14 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+
 }
 
 img {
   max-width: 100%;
   width: 100%;
   height: auto;
+
 }
 
 p {
