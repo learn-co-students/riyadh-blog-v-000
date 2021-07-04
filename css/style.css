@@ -8,8 +8,8 @@ html, body {
 body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
-  background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  background-attachment: floating;
+  font-family: Helvetica, Georgia, sans-serif;
   font-size: 100%;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Gabriela', Gerogia;
   color: #fff;
 }
 
@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Gabriela', Georgia;
   font-size: 1.5em;
   margin-top: .5em;
 }
@@ -56,8 +56,8 @@ p {
 }
 
 a {
-  color: black;
-  text-decoration: none;
+  color: pink;
+  text-decoration: italic;
 }
 
 a:hover {
