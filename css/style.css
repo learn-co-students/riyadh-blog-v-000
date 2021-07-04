@@ -24,11 +24,14 @@ body {
   background: rgba(255,255,255,.85);
 }
 
-h1, h2 {
+h1{
   font-family: 'Gabriela', serif;
   color: #fff;
 }
-
+h2 {
+  font-family: 'Gabriela', serif;
+  color: black;
+}
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
