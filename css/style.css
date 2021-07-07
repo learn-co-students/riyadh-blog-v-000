@@ -15,23 +15,23 @@ body {
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
-  padding-bottom: 40px;
+  width: 70%;
+  padding-bottom: 50px;
 }
 
 #content {
-  padding: 20px;
+  padding: 25px;
   background: rgba(255,255,255,.85);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Lobster', serif;
   color: #fff;
 }
 
 h1 {
   font-size: 3.5em;
-  margin-bottom: 0;
+  margin-bottom: .5em;
 }
 
 h2 {
@@ -49,10 +49,14 @@ img {
   max-width: 100%;
   width: 100%;
   height: auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 p {
   font-size: 1em;
+  margin-top: .5em;
+  margin-bottom: .5em;
 }
 
 a {
