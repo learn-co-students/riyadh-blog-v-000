@@ -6,9 +6,13 @@ html, body {
 }
 
 body {
+  background: #3366CC; /* For browsers that do not support gradients */
+  background: linear-gradient(to right, #3366CC , #99CCFF);
+  /*
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  */
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
@@ -25,7 +29,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Berkshire Swash', cursive;
   color: #fff;
 }
 
@@ -40,9 +44,10 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Berkshire Swash', cursive;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #244C96;
 }
 
 img {
@@ -53,15 +58,18 @@ img {
 
 p {
   font-size: 1em;
+  color: #244C96
 }
 
 a {
-  color: black;
+  color: #244C96;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  font-weight: bold;
+  color: #3568CD;
 }
 
 @media only screen and (max-width: 1042px) {
