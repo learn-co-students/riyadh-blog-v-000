@@ -26,7 +26,8 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  font-style: italic;
+  color: #FFFF00;
 }
 
 h1 {
@@ -35,13 +36,14 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2.2em;
   margin-top: .5em;
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Arial Black', serif;
   font-size: 1.5em;
+  text-decoration: underline;
   margin-top: .5em;
 }
 
