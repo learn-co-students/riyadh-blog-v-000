@@ -43,6 +43,14 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color:white;
+}
+
+h4 {
+  font-family: 'Gabriela', serif;
+  font-size: 1.0em;
+  margin-top: .5em;
+  color:black;
 }
 
 img {
