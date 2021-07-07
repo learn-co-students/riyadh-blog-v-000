@@ -6,9 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background: url(../images/backgrounds/architecture.jpg);
+  background-repeat: repeat;
+   background-position: center;
+   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
@@ -53,10 +54,11 @@ img {
 
 p {
   font-size: 1em;
+  text-align: center;
 }
 
 a {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
