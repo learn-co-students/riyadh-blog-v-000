@@ -21,7 +21,8 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: linear-gradient(to right, #FFFACD, #FFE4E1);
+  /*background: rgba(255,255,255,.85); */
 }
 
 h1, h2 {
@@ -43,6 +44,7 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #1E90FF;
 }
 
 img {
@@ -52,11 +54,13 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.2em;
+  color: #708090;
+  font-family: serif;
 }
 
 a {
-  color: black;
+  color: #FF69B4;
   text-decoration: none;
 }
 
