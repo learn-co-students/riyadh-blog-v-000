@@ -6,11 +6,11 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: url(http://wallpaper.pickywallpapers.com/samsung-galaxy-tab/flock-of-doves.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-family: Georgia, Arial, sans-serif;
+  font-size: 75%;
 }
 
 .wrapper {
@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #c61515;
 }
 
 h1 {
@@ -37,12 +37,14 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: black;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #c61515
 }
 
 img {
@@ -56,7 +58,7 @@ p {
 }
 
 a {
-  color: black;
+  color: #c61515 ;
   text-decoration: none;
 }
 
