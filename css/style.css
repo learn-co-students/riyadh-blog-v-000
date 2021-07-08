@@ -53,15 +53,17 @@ img {
 
 p {
   font-size: 1em;
+  font-family: 'Verdana, Geneva, sans-serif';
 }
 
 a {
-  color: black;
+  color: red;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+  color: yellow;
 }
 
 @media only screen and (max-width: 1042px) {
